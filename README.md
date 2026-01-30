@@ -1,4 +1,4 @@
-# Northwind Modern Data Stack
+# End-to-End Data Warehouse & BI Analytics Solution 
 
 ##  Project Overview
 
